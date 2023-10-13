@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "productId": "1",
+      "title": "iphone",
+      "brand": "apple",
+      "price": "1000000",
+      "description": "An iphone",
+      "thumbnail": "https://m.media-amazon.com/images/I/51rHstLKx4L._AC_SS300_.jpg",
+      "id": 1
+    },
+    {
+      "productId": "1",
+      "title": "iphone",
+      "brand": "apple",
+      "price": "1000000",
+      "description": "An iphone",
+      "thumbnail": "https://m.media-amazon.com/images/I/51rHstLKx4L._AC_SS300_.jpg",
+      "id": 2
+    },
+    {
+      "productId": "1",
+      "title": "iphone",
+      "brand": "apple",
+      "price": "1000000",
+      "description": "An iphone",
+      "thumbnail": "https://m.media-amazon.com/images/I/51rHstLKx4L._AC_SS300_.jpg",
+      "id": 3
+    }
+   
+  ]
+}
